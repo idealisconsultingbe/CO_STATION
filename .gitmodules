@@ -1,0 +1,4 @@
+[submodule "addons_room_management_v14"]
+	path = addons_room_management_v14
+	url = git@git.myidealis.be:ic_common/addons-room-management.git
+	branch = 14.0
